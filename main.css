@@ -1,0 +1,14 @@
+*{
+    padding: 6px;
+    text-align: center;
+    padding-top: 18px;
+    border-color: rgba(0, 0, 0, 0.308);
+}
+
+.form-label {
+    display: block;
+}
+
+textarea {
+    resize: none;
+  }
